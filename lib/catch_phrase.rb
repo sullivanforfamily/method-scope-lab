@@ -1,3 +1,5 @@
-def catch_phrase
-  puts phrase
+favirote = "phrase"
+def catch_phrase (favirote)
+  puts "#{favirote}"
 end
+
